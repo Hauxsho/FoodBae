@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/foodbaeimg"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="82dp"
+        android:layout_marginLeft="82dp"
+        android:layout_marginTop="590dp"
+        android:layout_marginEnd="83dp"
+        android:layout_marginRight="83dp"
+        android:layout_marginBottom="175dp"
+        android:orientation="horizontal"
+        android:weightSum="3">
+
+
+        <Button
+            android:id="@+id/btnsignup"
+            android:layout_width="123dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/custom_button"
+            android:elevation="8dp"
+            android:fontFamily="@font/timberline"
+            android:shadowColor="@color/colorPrimaryDark"
+            android:text="Signup"
+            android:textAllCaps="false"
+            android:textColor="#16291E"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:ignore="InvalidId"
+            tools:visibility="visible"></Button>
+
+        <TextView android:layout_height="12dp"
+            android:layout_width="40dp"
+            android:layout_weight="1"></TextView>
+        <Button
+            android:id="@+id/btnlogin"
+            android:layout_width="123dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/custom_button"
+            android:elevation="8dp"
+            android:fontFamily="@font/timberline"
+            android:shadowColor="@color/colorPrimaryDark"
+            android:text="Login"
+            android:textAllCaps="false"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:visibility="visible"
+            tools:ignore="InvalidId"
+            tools:visibility="visible"></Button>
+
+    </LinearLayout>
+</RelativeLayout>

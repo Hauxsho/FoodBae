@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774816152643",
+    "firebase_url": "https://foodbae-eda8e.firebaseio.com",
+    "project_id": "foodbae-eda8e",
+    "storage_bucket": "foodbae-eda8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774816152643:android:cead79561cdd499ad968f6",
+        "android_client_info": {
+          "package_name": "com.example.foodbae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774816152643-8683jvl44ep8s3j012vpet4i4e9t9dr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodbae",
+            "certificate_hash": "95ba91c519556a2a6b92bd2d590361820877b412"
+          }
+        },
+        {
+          "client_id": "774816152643-t0dr8kgpkn51jtpph09m4opmo7ko6tpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYHmMEldOrsEb6NWwlaIc9SzYb4DW9nqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774816152643-t0dr8kgpkn51jtpph09m4opmo7ko6tpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
