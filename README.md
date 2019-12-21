@@ -1,5 +1,5 @@
 Android EAT IT
-tested on API 28, nexus5X
+tested on API 28, 
 
 ● Uses Firebase to store data for restraunt
 
