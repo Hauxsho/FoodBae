@@ -1,5 +1,4 @@
-Android EAT IT
-tested on API 28, 
+Android FOODBAE 
 
 ● Uses Firebase to store data for restraunt
 
